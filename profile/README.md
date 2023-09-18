@@ -10,9 +10,6 @@ Python package: https://github.com/sheetcloud/sheetcloud
 PYPI package: `pip install sheetcloud`
 
 
-## NOTE: We are still in beta testing phase. If you like to become a Sheetcloud  beta tester (with some perks attached), write us an email at `contact[at]sheetcloud.org`.
-
-
 ## What is Sheetcloud?
 
 Transform Your Spreadsheets into a powerful Cloud Database with SheetCloud

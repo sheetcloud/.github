@@ -3,7 +3,7 @@
 
 Turn Spreadsheets into a Cloud Database with SheetCloud! Python library for easy access.
 
-Website: https://sheetcloud.org
+Website: https://landing.sheetcloud.de
 
 Python package: https://github.com/sheetcloud/sheetcloud
 
@@ -18,4 +18,6 @@ Unlock the full potential of your data with sheetcloud! Say goodbye to the heada
 
 Keep your data secure and accessible by storing it within your own Google Drive account, protected by robust security measures against potential breaches. Say goodbye to version control issues and data silos, and work seamlessly with your team, including non-developers such as business analysts who use spreadsheets. Whether you need to process, read, or write data in batches, build powerful dashboards and automated reports, handle secrets and environment variables, or schedule workflows, sheetcloud has got you covered, all with a single command from Python.
 
-## [Connect with your Google Drive now and start using it right away!](https://sheetcloud.org)
+**Sheetcloud is a free service and does not require any payment information**
+
+## [Easily connect with your Google Spreadsheets now.](https://landing.sheetcloud.de)
